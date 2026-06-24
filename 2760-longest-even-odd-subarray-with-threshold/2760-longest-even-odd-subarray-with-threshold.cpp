@@ -1,33 +1,34 @@
 
 class Solution {
 public:
-    int longestAlternatingSubarray(vector<int>& nums, int threshold) {
-        int n = nums.size();
-        int res = 0;
-        int curr = 0;
-        
-        for (int i = 0; i < n; i++) {
-            // Rule 1: Every element must be <= threshold
-            if (nums[i] > threshold) {
-                curr = 0; // Completely break the chain
-            } 
-            // Rule 2: If we are already building a chain, check the alternating parity
-            else if (curr > 0 && (nums[i] % 2 != nums[i - 1] % 2)) {
-                curr++;
-            } 
-            // Rule 3: If we aren't in a chain (or parity broke), we can only start a new chain if the number is EVEN
-            else if (nums[i] % 2 == 0) {
-                curr = 1;
-            } 
-            // Otherwise, it's an odd number trying to start a chain (invalid)
-            else {
-                curr = 0;
+    int longestAlternatingSubarray(vector<int>& nums, int t) {
+        int n=nums.size();
+        int cur{0},ans{0};
+        int l{0};
+        while(l<n){
+            if(nums[l]%2==0&&nums[l]<=t){
+                int r=l+1;
+                if(r<n&&nums[l]%2==nums[r]%2){
+                    ans=max(ans,1);
+                    l++;
+                    continue;
+                }
+                int cur{1};
+                while(r<n && nums[r]<=t){
+                    cur++;
+                    if(r+1<n &&nums[r]%2==nums[r+1]%2){
+                        break;
+                    }
+                    r++;
+                }
+
+                ans=max(ans,cur);
+                l=r;
+            }else{
+                l++;
             }
-            
-            res = max(res, curr);
         }
-        
-        return res;
+        return ans;
     }
 };
 
