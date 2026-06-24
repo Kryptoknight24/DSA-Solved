@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->
