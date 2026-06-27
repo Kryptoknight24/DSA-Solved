@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kryptoknight24/DSA-Solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kryptoknight24/DSA-Solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kryptoknight24/DSA-Solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
