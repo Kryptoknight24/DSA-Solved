@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0918-maximum-sum-circular-subarray) |
+## String
+|  |
+| ------- |
+| [3931-check-adjacent-digit-differences](https://github.com/Kryptoknight24/DSA-Solved/tree/master/3931-check-adjacent-digit-differences) |
 <!---LeetCode Topics End-->
