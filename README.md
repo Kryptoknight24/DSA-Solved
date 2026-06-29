@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1470-shuffle-the-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kryptoknight24/DSA-Solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Dynamic Programming
@@ -93,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3931-check-adjacent-digit-differences](https://github.com/Kryptoknight24/DSA-Solved/tree/master/3931-check-adjacent-digit-differences) |
 <!---LeetCode Topics End-->
