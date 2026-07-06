@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1470-shuffle-the-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1470-shuffle-the-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Enumeration
 |  |
@@ -92,10 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 ## String
 |  |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
