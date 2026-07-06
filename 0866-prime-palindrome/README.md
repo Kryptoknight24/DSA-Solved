@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/prime-palindrome">897. Prime Palindrome</a></h2><h3>Medium</h3><hr><p>Given an integer n, return <em>the smallest <strong>prime palindrome</strong> greater than or equal to </em><code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/prime-palindrome">866. Prime Palindrome</a></h2><h3>Medium</h3><hr><p>Given an integer n, return <em>the smallest <strong>prime palindrome</strong> greater than or equal to </em><code>n</code>.</p>
 
 <p>An integer is <strong>prime</strong> if it has exactly two divisors: <code>1</code> and itself. Note that <code>1</code> is not a prime number.</p>
 
