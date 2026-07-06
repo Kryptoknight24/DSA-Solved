@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
+| [0866-prime-palindrome](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0866-prime-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
