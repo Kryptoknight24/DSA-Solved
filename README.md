@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0866-prime-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
