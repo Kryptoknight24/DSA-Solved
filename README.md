@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1470-shuffle-the-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1929-concatenation-of-array) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
