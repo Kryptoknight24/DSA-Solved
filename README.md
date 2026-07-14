@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0918-maximum-sum-circular-subarray) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1470-shuffle-the-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0011-container-with-most-water) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
