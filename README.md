@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
 | [0866-prime-palindrome](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0866-prime-palindrome) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0724-find-pivot-index) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
