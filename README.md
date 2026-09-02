@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1470-shuffle-the-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1470-shuffle-the-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
