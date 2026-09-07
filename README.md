@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1470-shuffle-the-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1470-shuffle-the-array) |
+| [1539-kth-missing-positive-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
