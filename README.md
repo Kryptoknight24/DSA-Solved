@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
