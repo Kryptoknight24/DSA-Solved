@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1470-shuffle-the-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kryptoknight24/DSA-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Number Theory
 |  |
