@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0169-majority-element) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3931-check-adjacent-digit-differences](https://github.com/Kryptoknight24/DSA-Solved/tree/master/3931-check-adjacent-digit-differences) |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
