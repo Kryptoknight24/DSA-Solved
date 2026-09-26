@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0073-set-matrix-zeroes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0189-rotate-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1903-largest-odd-number-in-string) |
