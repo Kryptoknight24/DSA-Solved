@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1470-shuffle-the-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1470-shuffle-the-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0516-longest-palindromic-subsequence) |
+| [0877-stone-game](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0507-perfect-number) |
 | [0866-prime-palindrome](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0866-prime-palindrome) |
+| [0877-stone-game](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -248,4 +251,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0005-longest-palindromic-substring) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
