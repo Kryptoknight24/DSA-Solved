@@ -1,0 +1,37 @@
+class Solution {
+public:
+    int myAtoi(string input) {
+        int n=input.size();
+        int i=0;
+        while(i<n && input[i]==' '){
+            i++;
+        }
+        int sign=1;
+        if(i<n && input[i]=='-'){
+            sign=-1;
+            i++;
+        }
+        else if(i<n && input[i]=='+'){
+            i++;
+        }
+
+        long long result=0;
+        while (i<n && isdigit(input[i])){
+            result=result*10+ (input[i]-'0');
+            i++;
+
+            if(result* sign>=INT_MAX){
+                return INT_MAX;
+            }
+            if(result * sign<=INT_MIN){
+                return INT_MIN;
+            }
+        }
+        return result*sign;
+    }
+};
+
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
