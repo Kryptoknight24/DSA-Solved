@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kryptoknight24/DSA-Solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0229-majority-element-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -263,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0877-stone-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
