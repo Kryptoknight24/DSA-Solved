@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0344-reverse-string](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0516-longest-palindromic-subsequence) |
+| [0796-rotate-string](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -279,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1143-longest-common-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
