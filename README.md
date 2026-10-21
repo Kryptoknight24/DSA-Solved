@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0918-maximum-sum-circular-subarray) |
+| [1143-longest-common-subsequence](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0344-reverse-string](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0516-longest-palindromic-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3931-check-adjacent-digit-differences](https://github.com/Kryptoknight24/DSA-Solved/tree/master/3931-check-adjacent-digit-differences) |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Kryptoknight24/DSA-Solved/tree/master/0229-majority-element-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Kryptoknight24/DSA-Solved/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
